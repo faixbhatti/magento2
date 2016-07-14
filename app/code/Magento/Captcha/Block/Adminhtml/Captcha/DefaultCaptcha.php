@@ -9,7 +9,7 @@
  *
  * @author     Magento Core Team <core@magentocommerce.com>
  */
-namespace Magento\Captcha\Block\Adminhtml\Captcha;sdfsdfdsfsd
+namespace Magento\Captcha\Block\Adminhtml\Captcha;
 
 class DefaultCaptcha extends \Magento\Captcha\Block\Captcha\DefaultCaptcha
 {
